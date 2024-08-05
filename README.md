@@ -16,3 +16,6 @@
         - Given key
     4. Search
     5. Reverse
+- []  Solving leetcode problems on singly linked list
+    - [x] 1. Finding middle node
+    - [x] 2. Deleting middle node 
