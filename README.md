@@ -24,7 +24,7 @@
     - [x] 5. Find Kth Node from End
     - [x] 6. Reverse Between
     - [x] 7. Partition List
-- [x] Task 1:<br>
+- [x] Task 2:<br>
     IMplementing the basic functions of a Doubly Linked List, they are as follows
     1. Print
     2. Insertion
